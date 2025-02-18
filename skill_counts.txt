@@ -1,0 +1,661 @@
+Skill Frequency Count:
+AI: 491
+Python: 72
+API: 62
+LLM: 50
+RAG: 35
+AWS: 31
+GPT: 28
+English: 27
+NLP: 27
+OpenAI: 26
+CRM: 25
+PyTorch: 25
+C: 20
+UX: 20
+WordPress: 19
+ChatGPT: 18
+Machine Learning: 18
+Make.com: 18
+Marketing: 17
+Android: 16
+Azure: 16
+Instagram: 16
+React: 14
+SEO: 14
+Arabic: 13
+TensorFlow: 13
+Figma: 12
+Google Cloud: 12
+Kaggle: 12
+UI/UX: 12
+CSV: 11
+Canva: 11
+SQL: 11
+WhatsApp: 11
+CAD: 10
+Go: 10
+Go High Level: 10
+JSON: 10
+JavaScript: 9
+CMS: 8
+Cardano: 8
+Docker: 8
+Framer: 8
+LinkedIn: 8
+MidJourney: 8
+Shopify: 8
+UX design: 8
+WIX: 8
+CI/CD: 7
+DevOps: 7
+HR: 7
+LangChain: 7
+OpenAI API: 7
+Pandas: 7
+Twilio: 7
+Databases: 6
+Deep Learning: 6
+FastAPI: 6
+Git: 6
+Google Sheets: 6
+OCR: 6
+Operations: 6
+Pinecone: 6
+Reinforcement Learning: 6
+Retrieval-Augmented Generation: 6
+SDK: 6
+TTS: 6
+Zapier: 6
+Airtable: 5
+CSS: 5
+Dialogflow: 5
+Firebase: 5
+Google Ads: 5
+Mandarin: 5
+Natural Language Processing: 5
+Speech-to-Text: 5
+Technology: 5
+After Effects: 4
+Arabic NLP: 4
+Artificial Intelligence: 4
+AutoCAD: 4
+Automation: 4
+Azure ML: 4
+BI: 4
+Bootstrap: 4
+Cybersecurity: 4
+FAISS: 4
+Facebook Ads: 4
+Flask: 4
+GCP: 4
+Google Drive: 4
+Hugging Face Transformers: 4
+Keras: 4
+Kubernetes: 4
+Looker Studio: 4
+Mistral: 4
+NumPy: 4
+Playwright: 4
+Problem-solving: 4
+Research: 4
+Revit: 4
+Science: 4
+Text-to-Speech: 4
+TikTok Ads: 4
+VELO: 4
+Vertex AI: 4
+Vue.js: 4
+Weaviate: 4
+Webflow: 4
+WhatsApp Business API: 4
+Zoho CRM: 4
+AR/VR: 3
+Brevo: 3
+ElevenLabs: 3
+Finance: 3
+GIS: 3
+Generative AI: 3
+GitLab: 3
+HTML: 3
+Hailuo: 3
+Java: 3
+Jotform: 3
+Neural Networks: 3
+NoSQL: 3
+Node.js: 3
+OpenCV: 3
+Power BI: 3
+R: 3
+Rust: 3
+STT: 3
+Stable Diffusion: 3
+Swift: 3
+Tableau: 3
+WooCommerce: 3
+API Integration: 2
+AWS SageMaker: 2
+AWS Textract: 2
+Adobe Acrobat: 2
+Adobe Firefly: 2
+Anthropic API: 2
+App Development: 2
+AutoCAD 2D/3D: 2
+BIM: 2
+BeautifulSoup: 2
+Big Data: 2
+Blender: 2
+BrandBastion: 2
+Buffer: 2
+Calendly: 2
+Chroma: 2
+Civil 3D: 2
+ClickUp: 2
+Coding: 2
+DALL·E: 2
+DEX Aggregators: 2
+DICOM: 2
+Data Engineering: 2
+Debugging: 2
+DeepFilterNet: 2
+DeepLabCut: 2
+Digital Marketing: 2
+Django: 2
+ERP: 2
+Falcon: 2
+Flutter: 2
+GCS: 2
+GitLab CI/CD: 2
+Gmail: 2
+GoHighLevel: 2
+Google Cloud AI: 2
+Google Cloud Platform: 2
+Google Data Studio: 2
+Google Earth Engine: 2
+Google Sheets App Scripts: 2
+Hailuo AI: 2
+Hootsuite: 2
+INDEX/MATCH: 2
+Jenkins: 2
+Job Posting: 2
+Kentico CMS: 2
+LLaMA: 2
+LMS: 2
+Lambda: 2
+Lumion: 2
+MATLAB: 2
+MP3: 2
+ManyChat: 2
+PHP: 2
+PayPal: 2
+Perl: 2
+Pika Labs: 2
+Pivot Tables: 2
+PostgreSQL: 2
+Power Query: 2
+Premiere Pro: 2
+Project Management: 2
+RNNs: 2
+React Native: 2
+Redis: 2
+SLEAP: 2
+SMS: 2
+Sales: 2
+Scrapy: 2
+Self-Supervised Learning: 2
+Sentinel-1: 2
+Sentinel-2: 2
+SketchUp: 2
+Slack: 2
+SolidWorks: 2
+Streamlit: 2
+Supermetrics: 2
+Tailwind CSS: 2
+Terraform: 2
+Tesseract: 2
+Trello: 2
+UI design: 2
+V-Ray: 2
+VLOOKUP: 2
+Vector Databases: 2
+WAV: 2
+Windsor.ai: 2
+XGBoost: 2
+.NET: 1
+AI Solutions: 1
+AVFoundation: 1
+AWS Lambda: 1
+AWS Medical Transcribe: 1
+AWS S3: 1
+Adobe Bridge: 1
+Adobe Creative Suite: 1
+Adobe Firefly API: 1
+Adobe Premiere Pro: 1
+Agile: 1
+Articulate 360: 1
+Asana: 1
+Batch: 1
+Blockchain: 1
+Botpress: 1
+Burp Suite: 1
+Bynder: 1
+Camtasia: 1
+CapCut: 1
+Cassandra: 1
+ChatGPT API: 1
+Computer Vision: 1
+Contact Form 7: 1
+Contract Management: 1
+Coqui TTS: 1
+CoreAnimation: 1
+CoreData: 1
+CoreGraphics: 1
+CrewAI: 1
+Cron Jobs: 1
+Data Encryption: 1
+Database Management: 1
+DeepSeek AI: 1
+Descript: 1
+E-Commerce: 1
+EC2: 1
+Elastic Search: 1
+Elementor: 1
+Elite360: 1
+Encryption: 1
+Flick: 1
+Google AI: 1
+Google Docs: 1
+Google Vision API: 1
+Hadoop: 1
+Heroku: 1
+HeyGen: 1
+IAM: 1
+IKEv2: 1
+IVR: 1
+Investor Data Documentation: 1
+IoT: 1
+Kafka: 1
+Kali Linux: 1
+Kling: 1
+Kotlin: 1
+Kubeflow: 1
+LSTM: 1
+LlamaIndex: 1
+ML Frameworks: 1
+Material UI: 1
+Metasploit: 1
+Metricool: 1
+Microsoft Office: 1
+Monday.com: 1
+MongoDB: 1
+Mozilla DeepSpeech: 1
+MySQL: 1
+NVIDIA JetBot: 1
+Nmap: 1
+Objective-C: 1
+Ollama: 1
+OpenPyXL: 1
+OpenVPN: 1
+Opus Clip: 1
+Phantombuster: 1
+Profile Management: 1
+Prompt Engineering: 1
+Puppeteer: 1
+QB: 1
+RDS: 1
+REST API: 1
+Rasa: 1
+RelevanceAI: 1
+Runway ML: 1
+S3: 1
+Salesforce: 1
+Scikit-Learn: 1
+Selenium: 1
+ShipHero: 1
+Shipstation: 1
+Spark: 1
+Speech Recognition: 1
+SproutStudio: 1
+Stripe: 1
+Synthesia: 1
+Task Scheduler: 1
+Teaching: 1
+Telegram: 1
+TensorRT: 1
+UIKit: 1
+Unity 3D: 1
+VPN Protocols: 1
+Video Editing: 1
+Voiceflow: 1
+Vosk: 1
+WebSockets: 1
+Whisper: 1
+WireGuard: 1
+Wireshark: 1
+Writing: 1
+Xcode: 1
+YOLO: 1
+Yoast SEO: 1
+.NET MAUI: 0
+2D Design: 0
+3D Animation: 0
+3D Modeling: 0
+3D Simulations: 0
+3PL Management: 0
+AI Integrations: 0
+AI Research: 0
+API Development: 0
+API Gateway: 0
+ATS (Application Tracking System): 0
+AWS DevOps: 0
+AWS Glue: 0
+AWS Lightsail: 0
+AWS Redshift: 0
+Academic Writing: 0
+Adaptive Algorithms: 0
+Adobe Animate: 0
+Adobe Photoshop: 0
+Adobe Suite: 0
+Agile Methodologies: 0
+Airflow: 0
+Algorithmic Trading: 0
+Analytical Skills: 0
+Android App Development: 0
+Animated Graphics: 0
+Animation: 0
+Apache Hadoop: 0
+Application Packaging: 0
+Arabic Fiction Writing: 0
+Asynchronous Programming: 0
+Audio Signal Processing: 0
+Automated Internet Data Extraction: 0
+Azure ML Pipelines: 0
+Azure Services: 0
+B2B Marketing: 0
+BERT: 0
+BOTO3: 0
+Back-end Development: 0
+Biotechnology: 0
+Bot Development: 0
+Branding & Design: 0
+Bria API: 0
+Business Intelligence: 0
+Business Workflows: 0
+C++: 0
+CAD Drafting: 0
+CNN: 0
+CRM Integration: 0
+CRM Systems: 0
+CUDA Toolkit: 0
+Career Consultancy: 0
+CaseFleet: 0
+Channel Management: 0
+Circuit Design: 0
+Cloud AI Deployment: 0
+Cloud Engineering (AWS/GCP): 0
+Cloud Formation: 0
+Cold Calling: 0
+Command Line Scripting: 0
+Communication Skills: 0
+Construction Cost Estimation: 0
+Consulting: 0
+Content Curation: 0
+Conversion Funnels: 0
+Copywriting: 0
+Course Development: 0
+Cover Letter Writing: 0
+Crypto Mechanics: 0
+Cryptocurrency: 0
+Cryptocurrency Trading: 0
+CuDNN: 0
+Customer Service: 0
+DDR3: 0
+DDoS Attack Detection: 0
+DRF: 0
+Dashboard Development: 0
+Dask: 0
+Data Analysis: 0
+Data Analytics: 0
+Data Categorization: 0
+Data Collection: 0
+Data Entry: 0
+Data Extraction: 0
+Data Pipelines: 0
+Data Science: 0
+Data Structures: 0
+Data Validation: 0
+Data Visualization: 0
+Database Administration: 0
+Database Design: 0
+DeepSeek R1: 0
+Digital Media: 0
+Distributed Computing: 0
+Distribution Management: 0
+Django Channels: 0
+Django REST Framework: 0
+Docker Compose: 0
+Document Parsing: 0
+Doors DXL Scripting: 0
+DynamoDB: 0
+EBR: 0
+ECS: 0
+EHR Systems: 0
+EKS: 0
+ETL: 0
+EXCEL: 0
+Econometric Models: 0
+Email Automation: 0
+Email Management: 0
+Email Marketing: 0
+Embedded Systems: 0
+Ethical Hacking: 0
+Event-driven Architectures: 0
+Excel Formatting: 0
+Exhibit Classification: 0
+Express: 0
+FPGA: 0
+Facebook Advertising: 0
+Facebook Business Manager: 0
+Feature Engineering: 0
+Financial Analysis: 0
+Front-end Development: 0
+Full-Stack Development: 0
+GUI Development: 0
+Gambling Algorithms: 0
+Game Development: 0
+Geopolitics: 0
+Geospatial Modeling: 0
+Git Lab: 0
+Google Analytics: 0
+Google Colab: 0
+Google Sheets API: 0
+Graph Theory: 0
+Graphic Design: 0
+Groovy: 0
+HCPCS: 0
+HTTP Requests: 0
+Hardware Hacking: 0
+Healthcare: 0
+Healthcare Marketing: 0
+High-Frequency Trading: 0
+High-Risk Investments: 0
+Historical Analysis: 0
+Human Resources: 0
+Hyperparameter Optimization: 0
+ICD-10-CM: 0
+ISO 20022: 0
+ISO 8583: 0
+Image Processing: 0
+Image Recognition: 0
+InDesign: 0
+Indeed: 0
+Inferencing Systems: 0
+Information Technology: 0
+Instagram Advertising: 0
+Instagram Reels Video Editing: 0
+Intelligence Operations: 0
+Inventory Management: 0
+J2EE: 0
+JWT: 0
+Japanese Language: 0
+Job Matching: 0
+Job Posting Protocols: 0
+Job boards: 0
+Jupyter Notebooks: 0
+Keyword Optimization: 0
+Knowledge Graph: 0
+LLM Fine-Tuning: 0
+LMS Development: 0
+Laravel: 0
+Large Language Models: 0
+Layout Design: 0
+Lead Generation: 0
+Lean: 0
+Legal Research: 0
+Lightroom: 0
+Literature: 0
+Literature Review: 0
+Lokinet: 0
+MIT License: 0
+ML Ops: 0
+MSSQL: 0
+MT4: 0
+MT5: 0
+Macros: 0
+Malay: 0
+Market Research: 0
+Marketing Automation: 0
+Medical Coding: 0
+Medical Imaging: 0
+Medical Imaging Data Analysis: 0
+Meta Business Manager: 0
+Meta's Automated Rules: 0
+Microsoft Project: 0
+Microsoft Word Integration: 0
+Military Strategies: 0
+Mobile-First Design: 0
+Model Evaluation: 0
+Monitoring: 0
+Motion Graphics: 0
+Multi-Threading: 0
+Multiple-choice Quizzes: 0
+NFS: 0
+NHS DESP Standards: 0
+Named Entity Recognition: 0
+Narration: 0
+Negotiation Skills: 0
+NextJS: 0
+No-Code: 0
+Nosto: 0
+OAuth: 0
+OCI: 0
+OS-Level Programming: 0
+Object-oriented Programming: 0
+Oozie: 0
+OpenGL: 0
+Order aggregation: 0
+Organizational skills: 0
+Oxen Network: 0
+PCB Layout: 0
+Paralegal Skills: 0
+Passive Income Strategies: 0
+Payment Processing: 0
+Payroll: 0
+Penetration Testing: 0
+Performance Optimization: 0
+Photo Editing: 0
+Photo Retouching: 0
+Plotly Dash: 0
+Polars: 0
+Pose Estimation: 0
+Pre-trained Models: 0
+Print Media: 0
+Process Improvement: 0
+Product Description Writing: 0
+Product Management: 0
+Project Delivery: 0
+PubMed: 0
+PySpark: 0
+QT: 0
+Quantitative Finance: 0
+Quantum Computing: 0
+R Programming: 0
+RCA: 0
+RF: 0
+Requests: 0
+Resume Writing: 0
+Retell Agent: 0
+RoBERTa: 0
+Robotics: 0
+Ruby: 0
+SAS: 0
+SMB: 0
+SMM: 0
+SQLAlchemy: 0
+SQS: 0
+Script Writing: 0
+Search Algorithms: 0
+Security Exploits: 0
+Semantic Analysis: 0
+Sentiment Analysis: 0
+ServiceNow: 0
+Session Nodes: 0
+Setmore: 0
+Social Media Management: 0
+Software Architecture: 0
+Software Design: 0
+Software Engineering: 0
+SpaCy: 0
+Space Technology: 0
+Speech Synthesis: 0
+Spring Boot: 0
+Stata: 0
+Statistical Analysis: 0
+Stock Market: 0
+System Automation: 0
+Talent Sourcing: 0
+Tamil Language: 0
+Team coordination: 0
+Telegram Bot Development: 0
+Telesales: 0
+Teradata: 0
+Text Classification: 0
+Text Generation: 0
+Theano: 0
+Thermal Printer Management: 0
+Thinkific: 0
+Third-Party API Integration: 0
+Time Management: 0
+Toncoin Integration: 0
+Torch: 0
+Travelfy: 0
+TypeScript: 0
+UI Design (Figma): 0
+UI/UX Design: 0
+Unreal Engine 5: 0
+User engagement: 0
+User interface design: 0
+User progress tracking: 0
+Verbal communication: 0
+Version control: 0
+Video Lectures: 0
+Video Processing: 0
+Video Production: 0
+Voiceovers: 0
+Vultr: 0
+WCAG Compliance: 0
+Wallet Integration: 0
+Web Design: 0
+Web Development: 0
+Web Platform Integration: 0
+Web Scraping: 0
+Web Search: 0
+Webhooks: 0
+Webinars: 0
+Weweb: 0
+Windows Development: 0
+XML: 0
+XML Parsing: 0
+Xano: 0
+YouTube SEO: 0
+Zephyr: 0

@@ -1,0 +1,661 @@
+Total unique skills: 659
+
+.NET
+.NET MAUI
+2D Design
+3D Animation
+3D Modeling
+3D Simulations
+3PL Management
+AI
+AI Integrations
+AI Research
+AI Solutions
+API
+API Development
+API Gateway
+API Integration
+AR/VR
+ATS (Application Tracking System)
+AVFoundation
+AWS
+AWS DevOps
+AWS Glue
+AWS Lambda
+AWS Lightsail
+AWS Medical Transcribe
+AWS Redshift
+AWS S3
+AWS SageMaker
+AWS Textract
+Academic Writing
+Adaptive Algorithms
+Adobe Acrobat
+Adobe Animate
+Adobe Bridge
+Adobe Creative Suite
+Adobe Firefly
+Adobe Firefly API
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe Suite
+After Effects
+Agile
+Agile Methodologies
+Airflow
+Airtable
+Algorithmic Trading
+Analytical Skills
+Android
+Android App Development
+Animated Graphics
+Animation
+Anthropic API
+Apache Hadoop
+App Development
+Application Packaging
+Arabic
+Arabic Fiction Writing
+Arabic NLP
+Articulate 360
+Artificial Intelligence
+Asana
+Asynchronous Programming
+Audio Signal Processing
+AutoCAD
+AutoCAD 2D/3D
+Automated Internet Data Extraction
+Automation
+Azure
+Azure ML
+Azure ML Pipelines
+Azure Services
+B2B Marketing
+BERT
+BI
+BIM
+BOTO3
+Back-end Development
+Batch
+BeautifulSoup
+Big Data
+Biotechnology
+Blender
+Blockchain
+Bootstrap
+Bot Development
+Botpress
+BrandBastion
+Branding & Design
+Brevo
+Bria API
+Buffer
+Burp Suite
+Business Intelligence
+Business Workflows
+Bynder
+C
+C++
+CAD
+CAD Drafting
+CI/CD
+CMS
+CNN
+CRM
+CRM Integration
+CRM Systems
+CSS
+CSV
+CUDA Toolkit
+Calendly
+Camtasia
+Canva
+CapCut
+Cardano
+Career Consultancy
+CaseFleet
+Cassandra
+Channel Management
+ChatGPT
+ChatGPT API
+Chroma
+Circuit Design
+Civil 3D
+ClickUp
+Cloud AI Deployment
+Cloud Engineering (AWS/GCP)
+Cloud Formation
+Coding
+Cold Calling
+Command Line Scripting
+Communication Skills
+Computer Vision
+Construction Cost Estimation
+Consulting
+Contact Form 7
+Content Curation
+Contract Management
+Conversion Funnels
+Copywriting
+Coqui TTS
+CoreAnimation
+CoreData
+CoreGraphics
+Course Development
+Cover Letter Writing
+CrewAI
+Cron Jobs
+Crypto Mechanics
+Cryptocurrency
+Cryptocurrency Trading
+CuDNN
+Customer Service
+Cybersecurity
+DALL·E
+DDR3
+DDoS Attack Detection
+DEX Aggregators
+DICOM
+DRF
+Dashboard Development
+Dask
+Data Analysis
+Data Analytics
+Data Categorization
+Data Collection
+Data Encryption
+Data Engineering
+Data Entry
+Data Extraction
+Data Pipelines
+Data Science
+Data Structures
+Data Validation
+Data Visualization
+Database Administration
+Database Design
+Database Management
+Databases
+Debugging
+Deep Learning
+DeepFilterNet
+DeepLabCut
+DeepSeek AI
+DeepSeek R1
+Descript
+DevOps
+Dialogflow
+Digital Marketing
+Digital Media
+Distributed Computing
+Distribution Management
+Django
+Django Channels
+Django REST Framework
+Docker
+Docker Compose
+Document Parsing
+Doors DXL Scripting
+DynamoDB
+E-Commerce
+EBR
+EC2
+ECS
+EHR Systems
+EKS
+ERP
+ETL
+EXCEL
+Econometric Models
+Elastic Search
+Elementor
+ElevenLabs
+Elite360
+Email Automation
+Email Management
+Email Marketing
+Embedded Systems
+Encryption
+English
+Ethical Hacking
+Event-driven Architectures
+Excel Formatting
+Exhibit Classification
+Express
+FAISS
+FPGA
+Facebook Ads
+Facebook Advertising
+Facebook Business Manager
+Falcon
+FastAPI
+Feature Engineering
+Figma
+Finance
+Financial Analysis
+Firebase
+Flask
+Flick
+Flutter
+Framer
+Front-end Development
+Full-Stack Development
+GCP
+GCS
+GIS
+GPT
+GUI Development
+Gambling Algorithms
+Game Development
+Generative AI
+Geopolitics
+Geospatial Modeling
+Git
+Git Lab
+GitLab
+GitLab CI/CD
+Gmail
+Go
+Go High Level
+GoHighLevel
+Google AI
+Google Ads
+Google Analytics
+Google Cloud
+Google Cloud AI
+Google Cloud Platform
+Google Colab
+Google Data Studio
+Google Docs
+Google Drive
+Google Earth Engine
+Google Sheets
+Google Sheets API
+Google Sheets App Scripts
+Google Vision API
+Graph Theory
+Graphic Design
+Groovy
+HCPCS
+HR
+HTML
+HTTP Requests
+Hadoop
+Hailuo
+Hailuo AI
+Hardware Hacking
+Healthcare
+Healthcare Marketing
+Heroku
+HeyGen
+High-Frequency Trading
+High-Risk Investments
+Historical Analysis
+Hootsuite
+Hugging Face Transformers
+Human Resources
+Hyperparameter Optimization
+IAM
+ICD-10-CM
+IKEv2
+INDEX/MATCH
+ISO 20022
+ISO 8583
+IVR
+Image Processing
+Image Recognition
+InDesign
+Indeed
+Inferencing Systems
+Information Technology
+Instagram
+Instagram Advertising
+Instagram Reels Video Editing
+Intelligence Operations
+Inventory Management
+Investor Data Documentation
+IoT
+J2EE
+JSON
+JWT
+Japanese Language
+Java
+JavaScript
+Jenkins
+Job Matching
+Job Posting
+Job Posting Protocols
+Job boards
+Jotform
+Jupyter Notebooks
+Kafka
+Kaggle
+Kali Linux
+Kentico CMS
+Keras
+Keyword Optimization
+Kling
+Knowledge Graph
+Kotlin
+Kubeflow
+Kubernetes
+LLM
+LLM Fine-Tuning
+LLaMA
+LMS
+LMS Development
+LSTM
+Lambda
+LangChain
+Laravel
+Large Language Models
+Layout Design
+Lead Generation
+Lean
+Legal Research
+Lightroom
+LinkedIn
+Literature
+Literature Review
+LlamaIndex
+Lokinet
+Looker Studio
+Lumion
+MATLAB
+MIT License
+ML Frameworks
+ML Ops
+MP3
+MSSQL
+MT4
+MT5
+Machine Learning
+Macros
+Make.com
+Malay
+Mandarin
+ManyChat
+Market Research
+Marketing
+Marketing Automation
+Material UI
+Medical Coding
+Medical Imaging
+Medical Imaging Data Analysis
+Meta Business Manager
+Meta's Automated Rules
+Metasploit
+Metricool
+Microsoft Office
+Microsoft Project
+Microsoft Word Integration
+MidJourney
+Military Strategies
+Mistral
+Mobile-First Design
+Model Evaluation
+Monday.com
+MongoDB
+Monitoring
+Motion Graphics
+Mozilla DeepSpeech
+Multi-Threading
+Multiple-choice Quizzes
+MySQL
+NFS
+NHS DESP Standards
+NLP
+NVIDIA JetBot
+Named Entity Recognition
+Narration
+Natural Language Processing
+Negotiation Skills
+Neural Networks
+NextJS
+Nmap
+No-Code
+NoSQL
+Node.js
+Nosto
+NumPy
+OAuth
+OCI
+OCR
+OS-Level Programming
+Object-oriented Programming
+Objective-C
+Ollama
+Oozie
+OpenAI
+OpenAI API
+OpenCV
+OpenGL
+OpenPyXL
+OpenVPN
+Operations
+Opus Clip
+Order aggregation
+Organizational skills
+Oxen Network
+PCB Layout
+PHP
+Pandas
+Paralegal Skills
+Passive Income Strategies
+PayPal
+Payment Processing
+Payroll
+Penetration Testing
+Performance Optimization
+Perl
+Phantombuster
+Photo Editing
+Photo Retouching
+Pika Labs
+Pinecone
+Pivot Tables
+Playwright
+Plotly Dash
+Polars
+Pose Estimation
+PostgreSQL
+Power BI
+Power Query
+Pre-trained Models
+Premiere Pro
+Print Media
+Problem-solving
+Process Improvement
+Product Description Writing
+Product Management
+Profile Management
+Project Delivery
+Project Management
+Prompt Engineering
+PubMed
+Puppeteer
+PySpark
+PyTorch
+Python
+QB
+QT
+Quantitative Finance
+Quantum Computing
+R
+RAG
+RCA
+RDS
+REST API
+RF
+RNNs
+Rasa
+React
+React Native
+Redis
+Reinforcement Learning
+RelevanceAI
+Requests
+Research
+Resume Writing
+Retell Agent
+Retrieval-Augmented Generation
+Revit
+RoBERTa
+Robotics
+Ruby
+Runway ML
+Rust
+S3
+SAS
+SDK
+SEO
+SLEAP
+SMB
+SMM
+SMS
+SQL
+SQLAlchemy
+SQS
+STT
+Sales
+Salesforce
+Science
+Scikit-Learn
+Scrapy
+Script Writing
+Search Algorithms
+Security Exploits
+Selenium
+Self-Supervised Learning
+Semantic Analysis
+Sentiment Analysis
+Sentinel-1
+Sentinel-2
+ServiceNow
+Session Nodes
+Setmore
+ShipHero
+Shipstation
+Shopify
+SketchUp
+Slack
+Social Media Management
+Software Architecture
+Software Design
+Software Engineering
+SolidWorks
+SpaCy
+Space Technology
+Spark
+Speech Recognition
+Speech Synthesis
+Speech-to-Text
+Spring Boot
+SproutStudio
+Stable Diffusion
+Stata
+Statistical Analysis
+Stock Market
+Streamlit
+Stripe
+Supermetrics
+Swift
+Synthesia
+System Automation
+TTS
+Tableau
+Tailwind CSS
+Talent Sourcing
+Tamil Language
+Task Scheduler
+Teaching
+Team coordination
+Technology
+Telegram
+Telegram Bot Development
+Telesales
+TensorFlow
+TensorRT
+Teradata
+Terraform
+Tesseract
+Text Classification
+Text Generation
+Text-to-Speech
+Theano
+Thermal Printer Management
+Thinkific
+Third-Party API Integration
+TikTok Ads
+Time Management
+Toncoin Integration
+Torch
+Travelfy
+Trello
+Twilio
+TypeScript
+UI Design (Figma)
+UI design
+UI/UX
+UI/UX Design
+UIKit
+UX
+UX design
+Unity 3D
+Unreal Engine 5
+User engagement
+User interface design
+User progress tracking
+V-Ray
+VELO
+VLOOKUP
+VPN Protocols
+Vector Databases
+Verbal communication
+Version control
+Vertex AI
+Video Editing
+Video Lectures
+Video Processing
+Video Production
+Voiceflow
+Voiceovers
+Vosk
+Vue.js
+Vultr
+WAV
+WCAG Compliance
+WIX
+Wallet Integration
+Weaviate
+Web Design
+Web Development
+Web Platform Integration
+Web Scraping
+Web Search
+WebSockets
+Webflow
+Webhooks
+Webinars
+Weweb
+WhatsApp
+WhatsApp Business API
+Whisper
+Windows Development
+Windsor.ai
+WireGuard
+Wireshark
+WooCommerce
+WordPress
+Writing
+XGBoost
+XML
+XML Parsing
+Xano
+Xcode
+YOLO
+Yoast SEO
+YouTube SEO
+Zapier
+Zephyr
+Zoho CRM
